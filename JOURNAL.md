@@ -18,3 +18,17 @@ I need to figure out how to connect the two halves to make it function like a no
 I also want to have per-key RGB lighting, and if possible, get a metal casing, but this comes at the end. I'll be using Fusion 360 and Kicad for this project, since I've used it for other purposes! I'll be using 2x3u keys for the two spaces (think System76 Launch keebs)![ok!.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b5454133f5a7e8bf8af66fb6dbe0c3c0d0108ba2/ok!.jpg)
   
 
+## 10/24/2025 - Finished the design of the keyboard!  
+
+I finished drawing and designing the rest of the keyboard and the keyboard placements!
+
+I've also decided to add a status bar on the right edge of the keyboard, and I've also started researching ways to connect expandable sections to the keyboard, which will most likely end up being a nintendo-switch like connector? might just end up using slotting if I can't figure out anything else, though.
+
+The split is down f7-7y-h-b-space, so I have 2 3u spacebars and when put together, it can be a 6.25u spacebar; the total is 82 keys (~78% keyboard)!
+
+I've also started the kicad project and put in footprints, but haven't added anything in yet! That's for the next entry!
+
+![day 2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--590cf54d41b089c24cddd0100a8edaee4ade4273/num%C3%A9ris%C3%A9_20251024-2234.jpg)
+
+  
+
