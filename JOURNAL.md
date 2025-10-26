@@ -24,7 +24,7 @@ I finished drawing and designing the rest of the keyboard and the keyboard place
 
 I've also decided to add a status bar on the right edge of the keyboard, and I've also started researching ways to connect expandable sections to the keyboard, which will most likely end up being a nintendo-switch like connector? might just end up using slotting if I can't figure out anything else, though.
 
-The split is down f7-7y-h-b-space, so I have 2 3u spacebars and when put together, it can be a 6.25u spacebar; the total is 82 keys (~78% keyboard)!
+The split is down f7-7-y-h-b-space, so I have 2 3u spacebars and when put together, it can be a 6.25u spacebar; the total is 82 keys (~78% keyboard)!
 
 I've also started the kicad project and put in footprints, but haven't added anything in yet! That's for the next entry!
 
